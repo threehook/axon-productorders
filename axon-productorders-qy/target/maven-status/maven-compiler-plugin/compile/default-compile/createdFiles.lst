@@ -1,0 +1,13 @@
+nl\tvdven\productorders\entries\OrderEntry.class
+nl\tvdven\productorders\entries\ProductEntry.class
+nl\tvdven\productorders\repository\OrderEntryRepository.class
+nl\tvdven\productorders\config\AxonConfiguration.class
+nl\tvdven\productorders\config\AMQPConfiguration.class
+nl\tvdven\productorders\config\AMQPConfiguration$1.class
+nl\tvdven\productorders\handlers\ProductEventHandler.class
+nl\tvdven\productorders\main\Application.class
+nl\tvdven\productorders\config\AMQPConfiguration$2.class
+nl\tvdven\productorders\handlers\OrderEventHandler.class
+nl\tvdven\productorders\config\QueryDbConfiguration.class
+nl\tvdven\productorders\repository\ProductEntryRepository.class
+nl\tvdven\productorders\entries\OrderProductEntry.class
