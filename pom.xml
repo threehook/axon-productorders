@@ -21,7 +21,7 @@
         <axon.amqp.version>4.1</axon.amqp.version>
         <spring.boot.version>2.5.12</spring.boot.version>
         <slf4j.version>1.7.23</slf4j.version>
-        <logback.version>1.2.9</logback.version>
+        <logback.version>1.3.12</logback.version>
         <springframework.version>4.3.4.RELEASE</springframework.version>
 
         <!-- Maven plugins -->
